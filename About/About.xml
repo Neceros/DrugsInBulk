@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Drugs In Bulk</name>
+	<author>Neceros</author>
+  <supportedVersions>
+      <li>1.0</li>
+      <li>1.1</li>
+  </supportedVersions>
+  <packageId>neceros.drugsinbulk</packageId>
+	<description>Adds bulk recipes for all of the Rimworld drugs: smokeleaf joints, yayo, flake, psychite tea, go-juice, penoxycyline, and wakeup.</description>
+</ModMetaData>
