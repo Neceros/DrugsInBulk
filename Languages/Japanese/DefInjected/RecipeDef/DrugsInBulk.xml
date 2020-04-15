@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MakePsychiteTeaBulk.label>サイカイトティー x4</MakePsychiteTeaBulk.label>
+  <MakePsychiteTeaBulk.description>一度に4つサイカイトティーを作ることで、無駄を省き、時間を節約することができます。</MakePsychiteTeaBulk.description>
+  <MakePsychiteTeaBulk.jobString>サイカイトティーを4つ作成中</MakePsychiteTeaBulk.jobString>
+
+  <MakeFlakeBulk.label>フレーク x4</MakeFlakeBulk.label>
+  <MakeFlakeBulk.description>一度に4つフレークを作ることで、無駄を省き、時間を節約することができます。</MakeFlakeBulk.description>
+  <MakeFlakeBulk.jobString>フレークを4つ作成中</MakeFlakeBulk.jobString>
+
+  <MakeGoJuiceBulk.label>ゴージュース x4</MakeGoJuiceBulk.label>
+  <MakeGoJuiceBulk.description>一度に4つゴージュースを作ることで、無駄を省き、時間を節約することができます。</MakeGoJuiceBulk.description>
+  <MakeGoJuiceBulk.jobString>ゴージュースを4つ作成中</MakeGoJuiceBulk.jobString>
+
+  <MakePenoxycylineBulk.label>ペノキシリン x4</MakePenoxycylineBulk.label>
+  <MakePenoxycylineBulk.description>一度に4つペノキシリンを作ることで、無駄を省き、時間を節約することができます。</MakePenoxycylineBulk.description>
+  <MakePenoxycylineBulk.jobString>ペノキシリンを4つ作成中</MakePenoxycylineBulk.jobString>
+
+  <MakeSmokeleafJointBulk.label>ジョイント x4</MakeSmokeleafJointBulk.label>
+  <MakeSmokeleafJointBulk.description>一度に4つジョイントを作ることで、無駄を省き、時間を節約することができます。</MakeSmokeleafJointBulk.description>
+  <MakeSmokeleafJointBulk.jobString>ジョイントを4つ作成中</MakeSmokeleafJointBulk.jobString>
+
+  <MakeWakeUpBulk.label>ウェイクアップ x4</MakeWakeUpBulk.label>
+  <MakeWakeUpBulk.description>一度に4つウェイクアップを作ることで、無駄を省き、時間を節約することができます。</MakeWakeUpBulk.description>
+  <MakeWakeUpBulk.jobString>ウェイクアップを4つ作成中</MakeWakeUpBulk.jobString>
+
+  <MakeYayoBulk.label>イェイョ x4</MakeYayoBulk.label>
+  <MakeYayoBulk.description>一度に4つイェイョを作ることで、無駄を省き、時間を節約することができます。</MakeYayoBulk.description>
+  <MakeYayoBulk.jobString>イェイョを4つ作成中</MakeYayoBulk.jobString>
+
+</LanguageData>
